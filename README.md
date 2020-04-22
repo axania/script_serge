@@ -1,1 +1,3 @@
-# script_serge
+# maven-project
+
+Simple Maven Project
